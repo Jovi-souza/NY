@@ -136,19 +136,16 @@ main p {
     height: 600px;
     padding: 30px;
 }
-.imagens-3 {
-    padding-left: 80px;
-}
 .imagens-3 img {
     width: 210px;
     height: 210px;
-    margin: 30px;
+    margin: 50px;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.310);
 }
 .imagens-3 img:hover {
     width: 220px;
     height: 220px;
-    margin: 25px;
+    margin: 45px;
     transition: .5ms;
 }
 .text-3 {
