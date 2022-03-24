@@ -166,6 +166,7 @@ aside {
     background-image: linear-gradient(to bottom, #161616D8, #1d1a1a);
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;
+    height: 1050px;
     
 }
 aside h1 {
@@ -178,21 +179,20 @@ aside h1 {
     border-top-right-radius: 50px;
 }
 .text-aside {
-    margin-top: 50px;
-    margin-bottom: 50px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    margin-top: 50px;
 }
 .text-aside p {
-    background-color: white;
+    color: #8b8b8b;
     width: 350px;
-    margin: auto;
+    margin-left: 70px;
     padding: 15px;
     
 }
 .imagens-aside img {
-    margin: auto;
-    padding: 25px;
+    margin: 0px 0px 0px 60px;
+    padding: 30px;
     display: grid;
     width: 250px;
     height: 250px;
