@@ -202,16 +202,33 @@ footer {
     background-color: #1d1a1a;
     display: grid;
     margin-top: 25px;
-    padding: 20px;
-}
-footer h1 {
-    background-color: #8b8b8b;
-    border-radius: 100px;
-    border-bottom: 5px solid #ffa600;
-    color: #ffa600;
-    padding-left: 40px;
-    text-shadow: 3px 1px 1px black;
+    padding: 15px;
+    border-top: 4px solid #8b8b8b;
 }
 footer ul {
     color: #8b8b8b;
+    list-style: none;
+    margin: auto;
+    display: flex;
+}
+.suporte li {
+    font-weight: 500;
+    font-size: larger;
+    margin: 10px;
+    padding: 0px 15px;
+}
+.suporte a:hover {
+    color: #ffa600;
+    border-bottom: 2px solid #ffa600;
+    transition: .5s;
+}
+.redes-sociais li{
+    font-size: 35px;
+    margin: 0px 20px;
+}
+.redes-sociais a:hover {
+    color: #ffa600;
+    font-size: 45px;
+    margin: 0px -5px;
+    transition: 80ms;
 }
