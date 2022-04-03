@@ -29,7 +29,7 @@ header {
     background-image: url(/imagens/New_york_times_square-terabass-5.jpg);
 }
 .itens {
-    font-size: 35px;
+    font-size: 30px;
     list-style: none;
     display: flex;
     margin-left: 80%;
